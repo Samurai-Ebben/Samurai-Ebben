@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samurai-Ebben
-- 👀 I’m interested in game developmet and programming.
-- 🌱 I’m currently learning game developmet and computer technology
-- 📫 Best way to reach me is via gmail: abanalhindi47@gmail.com
+- 👀 I’m interested in game development and programming.
+- 🌱 I’m currently learning game development and computer science
+- 📫 Best way to reach me is via my email: abanalhindi47@gmail.com
 
 <!---
 Samurai-Ebben/Samurai-Ebben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
